@@ -2,7 +2,8 @@
 # Intern Pe Internship #Task4
  To Create A Connect 4 Game 
  Reference From :https://youtu.be/OxP5bkFVFBY?si=QZVVbj4At3srLbsL
- Check live :https://aniketshinde02.github.io/Connect-4-Game/
+ 
+ * Check live :https://aniketshinde02.github.io/Connect-4-Game/
 
 # Connect Four Game
 
